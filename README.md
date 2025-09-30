@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The **LT Line Fault Detection & Isolation System** is designed to monitor, detect, and isolate faults in **Low Tension (LT) distribution lines** using:
 - Smart meters for real-time consumer status.
 - IoT sensors on feeders and transformers.
@@ -19,7 +19,7 @@ This system helps reduce downtime, improves reliability, and supports **smart gr
 
 ---
 
-## 🚀 Features
+  Features
 ✅ Real-time fault detection on LT lines  
 ✅ Automatic fault isolation & rerouting  
 ✅ Smart meter & sensor integration  
@@ -51,6 +51,7 @@ LT-line-fault79/
 ```
 
 ---
+## 
 
 ## ⚙️ Installation & Setup
 
@@ -80,6 +81,10 @@ cd models
 pip install -r requirements.txt
 ```
 
+### 5️⃣ Install Openmodelica Software
+   from https://build.openmodelica.org/omc/builds/windows/releases/1.25/4/64bit/
+   OpenModelica-v1.25.4-64bit.exe
+   and load all .mo files from mattancharry GIS map replica Folder.
 ---
 
 ## 📊 Dataset
@@ -109,4 +114,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👥 Team
-- Developed as part of **SIH 2025 Hackathon** by Team *InnoHack45*  
+- Developed as part of **SIH 2025 Hackathon** by Team *InnoHack45*
+
+
